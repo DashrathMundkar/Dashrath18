@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://avatars1.githubusercontent.com/u/545988?s=200&v=4" width="48" height="48" alt="Debian" />
       </a>
       <br>SonarQube
     </td>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://raw.githubusercontent.com/bash/bash/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Bash
     </td>
