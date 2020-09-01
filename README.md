@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://avatars0.githubusercontent.com/u/792337?s=200&v=4" width="48" height="48" alt="Debian" />
       </a>
       <br>OpenShift
     </td>
