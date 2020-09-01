@@ -10,15 +10,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left" id="macropower-tech">Thing I am intrested in </h2>
+<h2 align="centre" id="macropower-tech">Thing I am intrested in </h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I like to work with and I am currently working on.
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/groovy/groovy-original.svg" width="48" height="48" alt="Groovy" />
       </a>
       <br>Groovy
     </td>
