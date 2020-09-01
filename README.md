@@ -18,18 +18,18 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>GitLab
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Groovy
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/gitlab-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>GitLab
+    </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
