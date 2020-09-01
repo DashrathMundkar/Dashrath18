@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/gitlab-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>GitLab
     </td>
