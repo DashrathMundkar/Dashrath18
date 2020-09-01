@@ -18,12 +18,6 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>GitLab
@@ -65,12 +59,6 @@ Here are some ideas to get you started:
         <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
