@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/bash/bash/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/shell/shell-original.svg" width="48" height="48" alt="shell" />
       </a>
       <br>Bash
     </td>
