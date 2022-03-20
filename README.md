@@ -9,6 +9,6 @@
 
 ## Twitter
 
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/lechnerc77)
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/dash_mundkar18)
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=dash_mundkar18&layout=wide)](https://github.com/gazf/github-readme-twitter)
