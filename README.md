@@ -1,6 +1,6 @@
 ### Hi there welocme to my profile :) 👋
 
-## These are techonlogy I am currently working on 
+### These are techonlogy I am currently working on 
 
 ## Stackoverflow
 
