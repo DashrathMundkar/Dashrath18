@@ -2,7 +2,7 @@
 #### DevOps Engineer
 ![DevOps Engineer](https://pbs.twimg.com/profile_banners/385268752/1565471261/600x200)
 
-I'm Dashrath from india. I love to play around and experiment cloud native tchnologies/CICD. I work as DevOps engineer and handles various tools on daily basis such as kubernetes, jenkins etc.
+I'm Dashrath from india. I love to play around and experiment cloud native tchnologies/CICD. I work as DevOps engineer and wprks with various tools on daily basis such as kubernetes, jenkins etc.
 
 Skills: Kubernetes, Jenkins, AWS, ArgoCD, Bash, Groovy
 
