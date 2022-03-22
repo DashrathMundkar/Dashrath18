@@ -1,5 +1,4 @@
-### Hi there 👋, Dashrath Mundkar
-#### DevOps Engineer
+### Hi there 👋
 ![DevOps Engineer](https://pbs.twimg.com/profile_banners/385268752/1565471261/600x200)
 
 ### About me
