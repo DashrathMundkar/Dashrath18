@@ -2,18 +2,14 @@
 #### DevOps Engineer
 ![DevOps Engineer](https://pbs.twimg.com/profile_banners/385268752/1565471261/600x200)
 
+### About me
 I'm Dashrath from india. I love to play around and experiment cloud native tchnologies/CICD. I work as DevOps engineer and wprks with various tools on daily basis such as kubernetes, jenkins etc.
 
 Skills: Kubernetes, Jenkins, AWS, ArgoCD, Bash, Groovy
 
-- 🔭 I’m currently working on CICD stuff. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DashrathMundkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dashrathmundkar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dash_mundkar18)  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DashrathMundkar)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/DashrathMundkar)  
+### You can find me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/DashrathMundkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/dashrathmundkar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='60'>](https://twitter.com/dash_mundkar18)  
 
 ![Profile views](https://gpvc.arturio.dev/DashrathMundkar)  
 
