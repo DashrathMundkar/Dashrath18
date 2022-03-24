@@ -1,3 +1,4 @@
+<body style="background-color:black;color:white;">
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dashrath</h1>
@@ -46,3 +47,4 @@ I am Dashrath from india. I am currently living in Munich, Germany. I love to pl
 </a>
 <a href="https://github.com/DashrathMundkar?tab=followers"><img src="https://img.shields.io/github/followers/DashrathMundkar?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+</body>
