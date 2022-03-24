@@ -19,11 +19,8 @@ I am Dashrath from india. I am currently living in Munich, Germany. I love to pl
    <a href="https://docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="50" height="50"/> </a>
    <a href="https://gitlab.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="50" height="50"/> </a>
    <a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="50" height="50"/> </a>
-   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg" alt="aws" width="55" height="55"/> </a>   
-</p>
+   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg" alt="aws" width="55" height="55"/> </a></p>
 
-
-  
 <h3 align="center"> Connect with me </h3>
 <p align="center">
 <a href = "https://www.linkedin.com/in/dashrathmundkar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
