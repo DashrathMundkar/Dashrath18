@@ -2,10 +2,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dashrath</h1>
 
-
-
 <h3 align="center"> About me </h3>
-I am Dashrath from india. I love to play around and experiment cloud native technologies/CICD stuff. I work as DevOps engineer and hnadles various tools on daily basis such as kubernetes, jenkins etc and in my free time I like to answer on stackoverflow. 
+I am Dashrath from india. I love to play around and experiment cloud native technologies/CICD stuff. I work as DevOps engineer and handles various tools on daily basis such as kubernetes, jenkins etc and in my free time I like to answer on stackoverflow. 
 
 <h3 align="center"> 🚀 Skills and Experience with Tools/Technologies </h3>
 <p align="left"> 
@@ -21,7 +19,7 @@ I am Dashrath from india. I love to play around and experiment cloud native tech
    <a href="https://docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="50" height="50"/> </a>
    <a href="https://gitlab.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="50" height="50"/> </a>
    <a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="50" height="50"/> </a>  
-   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg"   alt="aws" width="55" height="55"/></a>
+   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg"   alt="aws" width="55" height="55"/> </a>
 </p>
 
 
@@ -39,12 +37,8 @@ I am Dashrath from india. I love to play around and experiment cloud native tech
 </p>
 
 <h3 align="center"> Latest Tweets on Twitter </h3>
-
 <p align="center">
-  
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/dash_mundkar18)
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=dash_mundkar18&layout=wide)](https://github.com/gazf/github-readme-twitter)
+<img src ="https://github-readme-twitter.gazf.vercel.app/api?id=dash_mundkar18&layout=wide"/> 
 </p>
 
 <h3 align="center"> Views and Followers  </h3>
