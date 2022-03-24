@@ -21,8 +21,7 @@ I am Dashrath from india. I love to play around and experiment cloud native tech
   <a href="https://docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"  alt="docker" width="70" height="70"/> </a>
   <a href="https://gitlab.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"  alt="gitlab" width="70" height="70"/> </a>
   <a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"  alt="github" width="70" height="70"/> </a>  
-  
-    
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg"  alt="aws" width="65" height="65"/> </a>
 </p>
 
 
