@@ -3,11 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dashrath</h1>
 
 <h3 align="center"> About me </h3>
-<p align="center"> I am Dashrath from india. I am currently living in Munich, Germany. I love to play around and experiment cloud native technologies/CICD stuff. I work as DevOps engineer and handles various tools on daily basis such as kubernetes, jenkins etc and in my free time I like to answer on stackoverflow. </p>
+<p align="center"> I am Dashrath from Pune, India <img src="https://img.icons8.com/color/15/000000/india.png"/> and currently living in Munich, Germany <img src="https://img.icons8.com/color/15/000000/germany.png"/>. I love to play around and experiment cloud native technologies/CICD stuff. I work as DevOps Engineer and handle various tools on daily basis such as kubernetes, jenkins etc. Also in my free time I like to answer on stackoverflow.</p>
 
 <h3 align="center"> 🚀 Skills and Experience with Tools/Technologies </h3>
 <p align="center"> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50"       height="50"/>
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50"       height="50"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="jenkins" width="50" height="50"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="50"       height="50"/> </a>
     <a href="https://maven.apache.org/" target="_blank"> <img src="https://roufid.com/wp-content/uploads/2016/05/eyecatch-maven.png" alt="maven" width="50" height="50"/> </a>
@@ -26,7 +26,6 @@
 <p align="center">
 <a href = "https://www.linkedin.com/in/dashrathmundkar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/dash_mundkar18"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/dash_mundkar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 <h3 align="center"> Stackoverflow </h3>
