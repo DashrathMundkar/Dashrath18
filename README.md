@@ -1,6 +1,4 @@
-<p align="center">
-   <a href="#" target="_blank"> <img src="imageedit_1_2656207131.png" width="200" height="200px"/> </a>
-</p>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dashrath</h1>
 
